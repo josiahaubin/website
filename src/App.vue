@@ -21,9 +21,8 @@
       </div>
       <div id="links" class="row mx-auto mt-2">
         <div class="col-12">
-          <router-link to="/">Home</router-link>|
-          <router-link to="/about">Resume</router-link>|
-          <router-link to="/contact">Contact</router-link>
+          <router-link to="/" class="mr-2">Home</router-link>||
+          <router-link to="/about">Resume</router-link>
         </div>
       </div>
     </div>
@@ -41,8 +40,12 @@
 }
 
 #links {
-  background-color: rgb(250, 250, 250);
+  background-color: rgb(250, 250, 250, 0.9);
   width: fit-content;
+}
+
+#links a {
+  font-size: 19px;
 }
 
 #josiahphoto {
