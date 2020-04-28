@@ -1,5 +1,5 @@
 <template>
-  <div class="ContactMe col-4">
+  <div class="ContactMe col-sm-12 col-md-4">
     <div class="mt-3">
       <div class="card p-3">
         <h2>Contact Me</h2>

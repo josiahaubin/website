@@ -68,7 +68,7 @@
   background-image: url("./assets/markus-spiske-qjnAnF0jIGk-unsplash.jpg");
   background-size: cover;
   background-position-y: center;
-  height: 50vh;
+  height: auto;
   margin-left: -15px;
   margin-right: -15px;
 }
