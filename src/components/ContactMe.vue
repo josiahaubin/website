@@ -19,6 +19,8 @@
         </ul>
       </div>
     </div>
+    <img src="../assets/codeworks.jpg" alt="Josiah's CodeWorks class" class="mt-4 rounded" />
+    <small>CodeWorks instructors, classmates, and myself on graduation day</small>
   </div>
 </template>
 
@@ -37,6 +39,10 @@ export default {
 
 
 <style scoped>
+img {
+  width: inherit;
+  height: 50vh;
+}
 li {
   list-style-type: none;
   font-size: 20px;
