@@ -4,6 +4,10 @@
       <ContactMe />
       <AboutMe />
     </div>
+    <div class="row">
+      <Education />
+      <Experience />
+    </div>
   </div>
 </template>
 
@@ -11,11 +15,16 @@
 // @ is an alias to /src
 import ContactMe from "../components/ContactMe.vue";
 import AboutMe from "../components/AboutMe.vue";
+import Education from "../components/Education.vue";
+import Experience from "../components/Experience.vue";
+
 export default {
   name: "Home",
   components: {
     ContactMe,
-    AboutMe
+    AboutMe,
+    Experience,
+    Education
   }
 };
 </script>
