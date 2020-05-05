@@ -5,8 +5,8 @@
       <AboutMe />
     </div>
     <div class="row">
-      <Education />
       <Experience />
+      <Education />
     </div>
   </div>
 </template>

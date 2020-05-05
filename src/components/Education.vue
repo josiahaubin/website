@@ -1,5 +1,8 @@
 <template>
-  <div class="Education"></div>
+  <div class="Education col-sm-12 col-md-6">
+    <h1>Education</h1>
+    <hr />
+  </div>
 </template>
 
 
@@ -17,4 +20,7 @@ export default {
 
 
 <style scoped>
+hr {
+  border-color: black;
+}
 </style>
