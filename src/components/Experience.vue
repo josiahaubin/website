@@ -14,11 +14,11 @@
       </div>
     </div>
     <div class="row">
-      <div class="col-6">
+      <div class="col-12 mt-3">
         <h3>Software Developer</h3>
         <h5>Nov. 2019 - Present</h5>
       </div>
-      <div class="col-6">
+      <div class="col-12">
         <p>Job details</p>
       </div>
     </div>
@@ -30,12 +30,19 @@
       </div>
     </div>
     <div class="row">
-      <div class="col-6">
+      <div class="col-12 mt-3">
         <h3>Information Technology Intern</h3>
         <h5>Jan. 2019 - May 2019</h5>
       </div>
-      <div class="col-6">
-        <p>Job details</p>
+      <div class="col-12 text-left">
+        <p class="ml-4">While at ISP I:</p>
+        <ul>
+          <li>Worked with the IT department manager to identify critical KPI's for the IT department</li>
+          <li>Met with members of each IT sub-department to identify critical KPI's and tools used</li>
+          <li>Utilized software tools, such as JIRA, Lansweeper, and SolarWinds, to identify important IT performance data</li>
+          <li>Used SQL to identify important IT performance data in SQL databases</li>
+          <li>Used Microsoft Power BI to transform data and create a dashboard containing KPI's and other important IT related information</li>
+        </ul>
       </div>
     </div>
   </div>

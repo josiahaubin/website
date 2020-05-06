@@ -4,7 +4,7 @@
       <ContactMe />
       <AboutMe />
     </div>
-    <div class="row">
+    <div class="row mt-2">
       <Experience />
       <Education />
     </div>
