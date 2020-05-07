@@ -32,7 +32,20 @@
         <h3>BBA | Information Technology Management</h3>
         <h5>Spring 2019 | 3.994 GPA</h5>
       </div>
-      <div class="col-12">Class details</div>
+      <div class="col-12 text-left">
+        <p>Besides general educational and business related topics, IT topics covered include:</p>
+        <ul>
+          <li>Networking</li>
+          <li>Information Security</li>
+          <li>Cloud Computing with AWS</li>
+          <li>C#</li>
+          <li>HTML & CSS</li>
+          <li>SQL</li>
+          <li>UML</li>
+          <li>Data Analytics | Power BI</li>
+          <li>Microsoft Office Applications</li>
+        </ul>
+      </div>
     </div>
   </div>
 </template>
