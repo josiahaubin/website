@@ -4,9 +4,13 @@
       <ContactMe />
       <AboutMe />
     </div>
-    <div class="row mt-2">
+    <div class="row mt-3">
       <Experience />
       <Education />
+    </div>
+    <div class="row mt-3">
+      <Certificates />
+      <HonorsAwards />
     </div>
   </div>
 </template>
@@ -17,6 +21,8 @@ import ContactMe from "../components/ContactMe.vue";
 import AboutMe from "../components/AboutMe.vue";
 import Education from "../components/Education.vue";
 import Experience from "../components/Experience.vue";
+import Certificates from "../components/Certificates.vue";
+import HonorsAwards from "../components/HonorsAwards.vue";
 
 export default {
   name: "Home",
@@ -24,7 +30,9 @@ export default {
     ContactMe,
     AboutMe,
     Experience,
-    Education
+    Education,
+    Certificates,
+    HonorsAwards
   }
 };
 </script>
