@@ -40,7 +40,4 @@ export default {
 li {
   padding-bottom: 5px;
 }
-hr {
-  border-color: black;
-}
 </style>

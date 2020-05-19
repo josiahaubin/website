@@ -55,7 +55,4 @@ export default {
 
 
 <style scoped>
-hr {
-  border-color: black;
-}
 </style>

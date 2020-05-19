@@ -74,8 +74,4 @@ export default {
 h2 {
   display: inline;
 }
-
-hr {
-  border-color: black;
-}
 </style>

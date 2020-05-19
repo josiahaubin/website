@@ -45,8 +45,4 @@ export default {
 h3 {
   display: inline;
 }
-
-hr {
-  border-color: black;
-}
 </style>

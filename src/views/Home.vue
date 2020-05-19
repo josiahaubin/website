@@ -9,6 +9,9 @@
       <Education />
     </div>
     <div class="row mt-3">
+      <Knowledgebase />
+    </div>
+    <div class="row mt-3">
       <Certificates />
       <HonorsAwards />
     </div>
@@ -23,6 +26,7 @@ import Education from "../components/Education.vue";
 import Experience from "../components/Experience.vue";
 import Certificates from "../components/Certificates.vue";
 import HonorsAwards from "../components/HonorsAwards.vue";
+import Knowledgebase from "../components/Knowledgebase.vue";
 
 export default {
   name: "Home",
@@ -32,7 +36,8 @@ export default {
     Experience,
     Education,
     Certificates,
-    HonorsAwards
+    HonorsAwards,
+    Knowledgebase
   }
 };
 </script>

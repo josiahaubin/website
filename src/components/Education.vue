@@ -73,10 +73,6 @@ export default {
   height: 15vh;
 }
 
-hr {
-  border-color: black;
-}
-
 h2 {
   display: inline;
 }

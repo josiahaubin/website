@@ -85,4 +85,8 @@
 ::-webkit-scrollbar {
   display: none;
 }
+
+hr {
+  border-color: black;
+}
 </style>
