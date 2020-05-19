@@ -1,6 +1,6 @@
 <template>
   <div class="Certificates col-sm-12 col-md-6">
-    <h1>Certificates</h1>
+    <h1>Certifications</h1>
     <hr />
     <div class="row">
       <div class="col-12">
